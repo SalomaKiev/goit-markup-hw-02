@@ -66,6 +66,14 @@ li {
     color: #434455  ;
 }
 
+.adress-item:focus {
+    color: #404bbf ;
+}
+
+.adress-item:hover {
+    color: #404bbf;
+}
+
 
 .mail{
     font-family: 'Roboto', sans-serif;
@@ -223,7 +231,7 @@ li {
 }
 
 .studio-foot {
-    font-family: 'Raleway';
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.1;
