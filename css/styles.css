@@ -47,16 +47,25 @@ li {
 }
 
 .nav-item:focus {
-    color: #404bbf;
+    color: #404bbf ;
 }
 
 .nav-item:hover {
     color: #404bbf;
 }
 
-address {
+.adress {
     font-style: normal;
 }
+
+.adress-item{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455  ;
+}
+
 
 .mail{
     font-family: 'Roboto', sans-serif;
@@ -220,7 +229,7 @@ address {
     line-height: 1.1;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #F4F4FD;
+    color: #f4f4fd ;
     flex: none;
 }
 
